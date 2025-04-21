@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\InternIntelligence_MovieWebsite.props" />
+</Project>

@@ -1,0 +1,6 @@
+@InternIntelligence_MovieWebsite_HostAddress = http://localhost:5216
+
+GET {{InternIntelligence_MovieWebsite_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
